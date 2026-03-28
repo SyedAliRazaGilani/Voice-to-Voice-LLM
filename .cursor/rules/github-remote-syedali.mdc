@@ -1,0 +1,12 @@
+---
+description: GitHub remote for Voice-to-Voice-LLM must use SyedAliRazaGilani account
+alwaysApply: true
+---
+
+# Git remote (SyedAliRazaGilani)
+
+For this repository, **always** use the GitHub account **SyedAliRazaGilani** — not any other GitHub user or organization.
+
+- **Remote URL:** `https://github.com/SyedAliRazaGilani/Voice-to-Voice-LLM.git`
+- When initializing, fixing `origin`, or documenting push instructions, use **only** this URL.
+- Do not set `origin` to `github.com/zanjeel/` or any other namespace for this project.
